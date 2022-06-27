@@ -1,0 +1,29 @@
+
+        h1 {text-align: center;}
+        div {text-align: center;}
+        p {margin-top:70px; background-color:#888;}
+        .navbar {
+        overflow:hidden;
+        background-image: url("photos/navbarwallpaper.jpg");
+        display: inline-block;
+        position:relative;
+        transform-style:inherit; 
+    }
+        .navbar a {
+        float: left;
+        display: block;
+        Color: #f2f2f2;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+        .navbar a:hover {
+        background: #add;
+        color:yellow;
+    }
+        .main {
+        margin-top: 10px;
+    }
+        img.img {
+        border:1px solid #333;
+    }
